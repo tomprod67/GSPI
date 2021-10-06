@@ -1,0 +1,88 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-family: robotoregular, serif;
+    font-size: 16px;
+    max-width: 100%;
+    width: 100%;
+    border: 2px solid rgb(128, 0, 79);
+}
+
+body {
+    max-width: 100%;
+    width: 100%;
+    margin: 0;
+    height: 100%;
+    border: 2px solid rgb(126, 128, 0);
+}
+
+header {
+    padding: 0.5em;
+    background-color: rgb(42, 18, 129);
+    text-align: center;
+    width: 100%;
+    color: white;
+}
+
+template {
+    margin-top: 2em;
+}
+
+footer {
+    padding: 2em;
+    background-color: red;
+    text-align: center;
+    width: 100%;
+    font-weight: bolder;
+}
+
+h1 {
+    text-align: center;
+}
+
+#mainlogo {
+    width: 80%;
+    border: 3px solid green;
+}
+
+#nav {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.wrapperr {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: auto;
+}
+
+form {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+table {
+    width: 100%;
+}
+
+form :first-child {
+    width: 100%;
+}
+
+#nav button {
+    margin: 0.5em;
+}
+
+#app {
+    margin: 3em;
+    padding: 3em;
+    border: 1px solid yellow;
+}

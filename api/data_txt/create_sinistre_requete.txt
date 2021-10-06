@@ -1,0 +1,1 @@
+typeSinistre:CH,dateSurvenance:13/07/2021,dateFin:06/07/2020,circonstance:BLABLA,idContrat:1,tailleIdContrat:1

@@ -1,0 +1,1 @@
+{"statut" : "ERREUR","message" : "ERREUR = Le client doit avoir au minimum 18 ans pour pouvoir etre enregistre                                                                          "}

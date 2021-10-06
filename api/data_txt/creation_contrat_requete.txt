@@ -1,0 +1,1 @@
+typeSinistre:CH,montantG:10000,idClient:2,taille_id:1

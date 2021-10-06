@@ -1,0 +1,1 @@
+{"statut" : "SUCCES","message" : "SUCCES = LE CONTRAT POUR CE CLIENT A BIEN ETE CREER.   Le prix du contrat à été calculé en fonction de votre age. Un dossier de type de sinistre vide a egalement ét   é généré et lié à une garantie.           "}

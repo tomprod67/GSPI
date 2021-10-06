@@ -1,0 +1,1 @@
+idClient:2,tailleIdClient:1,idContrat:1,tailleIdContrat:1

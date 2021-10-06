@@ -1,0 +1,1 @@
+nom:SAINTY,prenom:Thomas,dateNaissance:16/05/2010,adresse:67300,codePostal:12.rue.des.chouettes,ville:Strasbourg

@@ -1,0 +1,1 @@
+typeSinistre:CH,montantGarantie:5000,idContrat:1,taille_id:1

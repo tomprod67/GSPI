@@ -1,0 +1,1 @@
+{"statut" : "ERREUR","message" : "ERREUR = Aucun client ne correspond a ce numero client, veuillez verifier le numero renseigné                                                        "}
